@@ -1,6 +1,6 @@
 # Blockchain Digital Signatures Mock Trial
 
-A law.MIT.edu and Massachusetts Legal Hackers mock trial event exploring the admissibility and enforceability of digital signatures executed using the same cryptographic key pair used with a public blockchain address.  
+A [law.MIT.edu](https://law.MIT.edu) and [Massachusetts Legal Hackers](Hackers) mock trial event exploring the admissibility and enforceability of digital signatures executed using the same cryptographic key pair used with a public blockchain address.  
 
 **Blockchain-Backed Digital Signature Mock Trial Landing Page:** 
 
