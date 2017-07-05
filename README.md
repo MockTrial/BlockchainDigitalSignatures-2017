@@ -17,19 +17,19 @@ A law.MIT.edu and Massachusetts Legal Hackers mock trial event exploring the adm
 
 **MIT Prototype Open Source Code for Executing Blockchain-Backed Cryptographic Digital Signatures:**
 
-* https://github.com/mitmedialab/TrustCoreID (using JOSE based approach to signing)
-* https://github.com/alexfigtree/CoreID (using Bitcoin Core library based approach to sign)
+* [https://github.com/mitmedialab/TrustCoreID](https://github.com/mitmedialab/TrustCoreID_ (using JOSE based approach to signing)
+* [https://github.com/alexfigtree/CoreID](https://github.com/mitmedialab/TrustCoreID) (using Bitcoin Core library based approach to sign)
 
 
 ## Legal Hackers Meetups
 
 **Massachusetts Legal Hackers Project on Legal Standing of Blockchain-Backed Cryptographic Digital Signatures:**
 
-* https://www.meetup.com/Massachusetts-Legal-Hackers/events/240407743 
-* https://www.meetup.com/Massachusetts-Legal-Hackers/events/239640448
-* https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-March-28-LegalHackNight-ProjectNotes
-* https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-April-25-LegalHackNight-ProjectNotes
-* https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-May-30-LegalHacknightProjectNotes
+* [https://www.meetup.com/Massachusetts-Legal-Hackers/events/240407743](https://www.meetup.com/Massachusetts-Legal-Hackers/events/240407743)
+* [https://www.meetup.com/Massachusetts-Legal-Hackers/events/239640448](https://www.meetup.com/Massachusetts-Legal-Hackers/events/239640448)
+* [https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-March-28-LegalHackNight-ProjectNotes](https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-March-28-LegalHackNight-ProjectNotes)
+* [https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-April-25-LegalHackNight-ProjectNotes](https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-April-25-LegalHackNight-ProjectNotes)
+* [https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-May-30-LegalHacknightProjectNotes](https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-May-30-LegalHacknightProjectNotes)
 
 # Volunteer
 
