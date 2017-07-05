@@ -24,3 +24,7 @@ A law.MIT.edu and Massachusetts Legal Hackers mock trial event exploring the adm
 * https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-April-25-LegalHackNight-ProjectNotes
 * https://github.com/MassachusettsLegalHackers/BCID/wiki/2017-May-30-LegalHacknightProjectNotes
 
+## Volunteer
+
+* Coming soon
+
