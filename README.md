@@ -18,7 +18,7 @@ A [law.MIT.edu](https://law.MIT.edu) and [Massachusetts Legal Hackers](Hackers) 
 **MIT Prototype Open Source Code for Executing Blockchain-Backed Cryptographic Digital Signatures:**
 
 * [https://github.com/mitmedialab/TrustCoreID](https://github.com/mitmedialab/TrustCoreID) (using JOSE based approach to signing)
-* [https://github.com/alexfigtree/CoreID](https://github.com/mitmedialab/TrustCoreID) (using Bitcoin Core library based approach to sign)
+* [https://github.com/alexfigtree/CoreID](https://github.com/alexfigtree/CoreID) (using Bitcoin Core library based approach to sign)
 
 
 ## Legal Hackers Meetups
