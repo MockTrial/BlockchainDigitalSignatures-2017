@@ -10,8 +10,8 @@ A law.MIT.edu and Massachusetts Legal Hackers mock trial event exploring the adm
 
 **MIT Legal Hackers Research Project on Blockchain-Backed Cryptographic Digital Signatures:**
 
-* Exploratory law.MIT.edu research project overview page: https://law.mit.edu/blog/core-identity-blockchain-project
-* Potential approaches to fact pattern: https://github.com/mitmedialab/law.MIT.edu/tree/gh-pages/MockTrial
+* Exploratory law.MIT.edu research project overview page: [https://law.mit.edu/blog/core-identity-blockchain-project](https://law.mit.edu/blog/core-identity-blockchain-project)
+* Potential approaches to fact pattern: [https://github.com/mitmedialab/law.MIT.edu/tree/gh-pages/MockTrial](https://github.com/mitmedialab/law.MIT.edu/tree/gh-pages/MockTrial)
 
 ## MIT Open Source Code
 
