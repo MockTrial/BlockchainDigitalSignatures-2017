@@ -6,18 +6,24 @@ A law.MIT.edu and Massachusetts Legal Hackers mock trial event exploring the adm
 
 * [https://mocktrial.github.io/BlockchainDigitalSignatures-2017](https://mocktrial.github.io/BlockchainDigitalSignatures-2017/)
 
-## MIT Legal Hackers Research Project on Blockchain-Backed Cryptographic Digital Signatures
+## MIT Open Research Project
+
+**MIT Legal Hackers Research Project on Blockchain-Backed Cryptographic Digital Signatures:**
 
 * Exploratory law.MIT.edu research project overview page: https://law.mit.edu/blog/core-identity-blockchain-project
 * Potential approaches to fact pattern: https://github.com/mitmedialab/law.MIT.edu/tree/gh-pages/MockTrial
 
-## MIT Prototype Open Source Code for Executing Blockchain-Backed Cryptographic Digital Signatures
+## MIT Open Source Code
+
+**MIT Prototype Open Source Code for Executing Blockchain-Backed Cryptographic Digital Signatures:**
 
 * https://github.com/mitmedialab/TrustCoreID (using JOSE based approach to signing)
 * https://github.com/alexfigtree/CoreID (using Bitcoin Core library based approach to sign)
 
 
-## Massachusetts Legal Hackers Project on Legal Standing of Blockchain-Backed Cryptographic Digital Signatures
+## Legal Hackers Meetups
+
+**Massachusetts Legal Hackers Project on Legal Standing of Blockchain-Backed Cryptographic Digital Signatures:**
 
 * https://www.meetup.com/Massachusetts-Legal-Hackers/events/240407743 
 * https://www.meetup.com/Massachusetts-Legal-Hackers/events/239640448
