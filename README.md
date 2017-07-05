@@ -2,10 +2,10 @@
 
 A law.MIT.edu and Massachusetts Legal Hackers mock trial event exploring the admissibility and enforceability of digital signatures executed using the same cryptographic key pair used with a public blockchain address.  
 
-### Blockchain-Backed Digital Signature Mock Trial Landing Page
+## Blockchain-Backed Digital Signature Mock Trial Landing Page
 * [https://mocktrial.github.io/BlockchainDigitalSignatures-2017](https://mocktrial.github.io/BlockchainDigitalSignatures-2017/)
 
-## MIT Legal Hackers Research Project on Blockchain-Backed Cryptographic Digital Signatures
+### MIT Legal Hackers Research Project on Blockchain-Backed Cryptographic Digital Signatures
 
 * Exploratory law.MIT.edu research project overview page: https://law.mit.edu/blog/core-identity-blockchain-project
 * Potential approaches to fact pattern: https://github.com/mitmedialab/law.MIT.edu/tree/gh-pages/MockTrial
