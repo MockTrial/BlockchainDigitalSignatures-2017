@@ -17,7 +17,7 @@ A law.MIT.edu and Massachusetts Legal Hackers mock trial event exploring the adm
 
 **MIT Prototype Open Source Code for Executing Blockchain-Backed Cryptographic Digital Signatures:**
 
-* [https://github.com/mitmedialab/TrustCoreID](https://github.com/mitmedialab/TrustCoreID_ (using JOSE based approach to signing)
+* [https://github.com/mitmedialab/TrustCoreID](https://github.com/mitmedialab/TrustCoreID) (using JOSE based approach to signing)
 * [https://github.com/alexfigtree/CoreID](https://github.com/mitmedialab/TrustCoreID) (using Bitcoin Core library based approach to sign)
 
 
