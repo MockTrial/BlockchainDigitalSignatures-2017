@@ -24,7 +24,7 @@ The scope is narrowly focused on laying a proper foundation to admit a digital s
 **Technical issues will include having working code and other resources needed to:**
 
 * Generate digital signatures on files using a key pair also associated with a public blockchain address and that more than one person involved in the mock trial is capable of installing, configuring and running from scratch;
-* Verify the digital signatures (ie: using the signed file, the public key associated with the private key used to sign the file and the hash digest of the file), an online blockchain explorer, verifiably signed code or provable "VCS" commits of the code being relied upon for generating and verifying evidence and other resources needed to adequately "prove" reasonable reliance upon the authenticity, provenance, integrity, genuinesss etc of assertions, data, files, records or other evidence.  
+* Verify the digital signatures (ie: using the signed file, the public key associated with the private key used to sign the file and the hash digest of the file), an online blockchain explorer, verifiable (eg [provably signed code](https://github.com/bitcoin/bitcoin/commits/master) or [provable "VCS" commits](https://github.com/bitcoin/bitcoin) etc) of the code being relied upon for generating and verifying evidence and other resources needed to adequately "prove" reasonable reliance upon the authenticity, provenance, integrity, genuinesss etc of assertions, data, files, records or other evidence.  
 
 ## Contextual Scope 
 
