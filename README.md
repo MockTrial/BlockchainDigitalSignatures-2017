@@ -24,14 +24,14 @@ The scope is narrowly focused on laying a proper foundation to admit a digital s
 **Technical issues will include having working code and other resources needed to:**
 
 * Generate digital signatures on files using a key pair also associated with a public blockchain address and that more than one person involved in the mock trial is capable of installing, configuring and running from scratch;
-* Verify the digital signatures (ie: using the signed file, the public key associated with the private key used to sign the file and the hash digest of the file), an online blockchain explorer, verifiable (eg [provably signed code](https://github.com/bitcoin/bitcoin/commits/master) or [provable "VCS" commits](https://github.com/bitcoin/bitcoin) etc) of the code being relied upon for generating and verifying evidence and other resources needed to adequately "prove" reasonable reliance upon the authenticity, provenance, integrity, genuinesss etc of assertions, data, files, records or other evidence.  
+* Verify the digital signatures (ie: using the signed file, the public key associated with the private key used to sign the file and the hash digest of the file), an online blockchain explorer and other resources needed to adequately "prove" reasonable reliance upon the authenticity, provenance, integrity, genuinesss etc of assertions, data, files, records or other evidence.  
 
 ## Contextual Scope 
 
 **Contextual issues will include:**
 
 * Providing enough context about the broader postulated legal scenario so everybody is comfortable picking up at the point in the litigation when one party is attempting to enter the digital signatures into evidence without triggering the need to litigate broader facts and circumstances the relationships, transactions and other aspects of the scenario giving rise to the digital signatures in question; and
-* Succeffully focusing upon the question, answers and other factors needed to make the case these signatures are admissible, including attention to available objections from the opposing party and other legal or practical issues that may arise without having to refer to broader sets of rules (eg procedural or substantive law and other factors impacting impacting enforceability or other legal issues)  
+* Succeffully focusing upon the question, answers and other factors needed to make the case these signatures are admissible, including attention to available objections from the opposing party and other legal or practical issues that may arise without having to refer to broader sets of rules (eg procedural or substantive law and other factors impacting impacting enforceability or other legal issues).
 
 ## Practical Scope
 
