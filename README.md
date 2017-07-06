@@ -1,12 +1,12 @@
 # Blockchain Digital Signatures Mock Trial
 
+**Mock Trial Landing Page: [https://mocktrial.github.io/BlockchainDigitalSignatures-2017](https://mocktrial.github.io/BlockchainDigitalSignatures-2017/)**
+
 On July 13th, 2017 [law.MIT.edu](https://law.MIT.edu) and [Massachusetts Legal Hackers](Hackers) will conduct a mock trial event litigating admissibility of digital signatures executed using the same cryptographic key pair used with a public blockchain address.  
 
 We plan to explore more issues as part of a broader mock trial event planned for the fall of 2017 in collaboration with partners in the fields of law (including a law school and bar association) and technology (including blockchain and UI/UX).  However, the event on July 13th will be narrowly focused upon exploring the steps required to lay the legal foundation necessary for blockchan-backed digital signatures to be properly admissible as evidence.  
 
-**Blockchain-Backed Digital Signature Mock Trial Landing Page:** 
-
-* [https://mocktrial.github.io/BlockchainDigitalSignatures-2017](https://mocktrial.github.io/BlockchainDigitalSignatures-2017/)
+For a high level overview about how to enter evidence in a mock trial, check out this classic Law Insider blog post: [http://www.thelawinsider.com/mock-trial-lawschool/how-to-enter-evidence-mock-trial](http://www.thelawinsider.com/mock-trial-lawschool/how-to-enter-evidence-mock-trial)
 
 # Scope of Focus: Admissibility of Evidence
 
