@@ -6,6 +6,29 @@ A [law.MIT.edu](https://law.MIT.edu) and [Massachusetts Legal Hackers](Hackers) 
 
 * [https://mocktrial.github.io/BlockchainDigitalSignatures-2017](https://mocktrial.github.io/BlockchainDigitalSignatures-2017/)
 
+## Scope of Focus: Admissibility of Evidence
+
+The scope is narrowly focused on laying a proper foundation to admit a digital signature into evidence as part of a contract breach case.  The ideas is to postulate a case deliberately designed to be as routine as possible, other than the twist that a blockchain-backed cryptographic digital signature was used to execute the contract.  
+
+**Legal issues will include articulating and managing the steps needed to:**
+
+* Verify a digital signature executed with the same cryptographic keys used with a public blockchain address; and 
+* Establish a digital record has not changed since a hash of the file was entered onto a blockchain.  
+
+**Technical issues will include having working code and other resources needed to:**
+
+* Generate digital signatures on files using a key pair also associated with a public blockchain address and that more than one person involved in the mock trial is capable of installing, configuring and running from scratch;
+* Verify the digital signatures (ie: using the signed file, the public key associated with the private key used to sign the file and the hash digest of the file), an online blockchain explorer, verifiably signed code or provable "VCS" commits of the code being relied upon for generating and verifying evidence and other resources needed to adequately "prove" reasonable reliance upon the authenticity, provenance, integrity, genuinesss etc of assertions, data, files, records or other evidence.  
+
+**Practical issues will include:**
+* Crafting accurate yet highly simplified and streamlined phrases and precisely defined words appropriate to the task of laying an evidentiary foundation for admissibility of this type of evidence; and
+* Developing a laptop driven projection and/or other props capable of visually articulating the key point in an generally understandable, legally permissable and tactically effective manner.
+
+**Contextual issues will include:**
+
+* Providing enough context about the broader postulated legal scenario so everybody is comfortable picking up at the point in the litigation when one party is attempting to enter the digital signatures into evidence without triggering the need to litigate broader facts and circumstances the relationships, transactions and other aspects of the scenario giving rise to the digital signatures in question; and
+* Succeffully focusing upon the question, answers and other factors needed to make the case these signatures are admissible, including attention to available objections from the opposing party and other legal or practical issues that may arise without having to refer to broader sets of rules (eg procedural or substantive law and other factors impacting impacting enforceability or other legal issues)  
+
 ## MIT Open Research Project
 
 **MIT Legal Hackers Research Project on Blockchain-Backed Cryptographic Digital Signatures:**
